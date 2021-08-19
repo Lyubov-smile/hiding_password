@@ -1,0 +1,7 @@
+# https://www.youtube.com/watch?v=5iWhQWVXosU
+1) open file in terminal
+nano .bash_profile
+2) add next lines
+export DB_USER="my_db_user"
+export DB_PASS="my_db_pass"
+3) ctrl+X -> Y -> Enter
